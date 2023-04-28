@@ -12,6 +12,9 @@ namespace ArrayListDictionary
         {
             Collection collection = new Collection();
             collection.ArrayLit();
+
+            Dictionarycrud dictionarycrud = new Dictionarycrud();
+            dictionarycrud.Operation();
         }
     }
 }
